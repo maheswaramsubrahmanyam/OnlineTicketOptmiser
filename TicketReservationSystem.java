@@ -94,7 +94,7 @@ public class TicketReservationSystem {
         Scanner scanner = new Scanner(System.in);
         int choice = 0;
 
-        while (choice != 4) {
+        while (choice != 3) {
             System.out.println("1. Reserve a ticket");
             System.out.println("2. Cancel a reservation");
             System.out.println("3. Exit");
